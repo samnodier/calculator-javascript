@@ -49,16 +49,6 @@ function calculate(exp) {
   console.log(answer);
   return String(answer);
 
-
-  // console.log(add.textContent);
-  // console.log(input.value);
-  // // console.log(input.value == '');
-  // subSign = sub.textContent === "+" ? 'Yes' : 'No';
-  // console.log(subSign);
-
-  // // Nobody is allowed to press on any of the signs below when the
-  // // input box is empty
-
 }
 
 
@@ -247,8 +237,6 @@ function insert(e) {
       case "=":
         input.innerHTML = calculate(numberEntered);
             console.log(input.textContent);
-        // numberEntered = '';
-        // input.innerHTML = numberEntered;
         break;
       case "ANS":
         numberEntered.push(String(answer));
