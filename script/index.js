@@ -282,55 +282,5 @@ window.addEventListener("click", insert);
 
 
 {
-//     ANS.addEventListener("click", insert);
-
-
-//     c.addEventListener("click", insert);
-
-//     del.addEventListener("click", insert);
-
-//     divide.addEventListener("click", insert);
-
-//     memory.addEventListener("click", insert);
-
-//     seven.addEventListener("click", insert);
-
-//     eight.addEventListener("click", insert);
-
-//     nine.addEventListener("click", insert);
-
-//     multiply.addEventListener("click", insert);
-
-//     plusorminus.addEventListener("click", insert);
-
-//     four.addEventListener("click", insert);
-
-//     five.addEventListener("click", insert);
-
-//     six.addEventListener("click", insert);
-
-//     subtract.addEventListener("click", insert);
-
-//     sqrt.addEventListener("click", insert);
-
-//     one.addEventListener("click", insert);
-
-//     two.addEventListener("click", insert);
-
-//     three.addEventListener("click", insert);
-
-//     add.addEventListener("click", insert);
-
-//     reciprocal.addEventListener("click", insert);
-
-//     left_paranth.addEventListener("click", insert);
-
-//     right_paranth.addEventListener("click", insert);
-
-//     zero.addEventListener("click", insert);
-
-//     equals.addEventListener("click", insert);
-
-//     dot.addEventListener("click", insert);
 }
 
